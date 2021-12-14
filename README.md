@@ -1,3 +1,5 @@
+# This is a older version of the supervised-installer, because if you execute the old installer your NetworkManager wont start.
+
 # This installation method is for advanced users only
 
 ## Make sure you understand [the requirements](https://github.com/home-assistant/architecture/blob/master/adr/0014-home-assistant-supervised.md)
@@ -15,7 +17,7 @@ This method is considered advanced and should only be used if one is an expert i
 Run as root (sudo su):
 
 ```bash
-curl -Lo installer.sh https://raw.githubusercontent.com/home-assistant/supervised-installer/master/installer.sh
+curl -Lo installer.sh https://raw.githubusercontent.com/minionflo/supervised-installer/master/installer.sh
 bash installer.sh
 ```
 
