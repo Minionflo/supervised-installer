@@ -1,4 +1,4 @@
-# This is a older version of the supervised-installer, because if you execute the old installer your NetworkManager wont start.
+# This is a older version of the supervised-installer, because if you execute the old installer your NetworkManager wont start. To use this repo you just need to do the normal installation down below or you can replace `URL_RAW_BASE="https://raw.githubusercontent.com/home-assistant/supervised-installer/master/files"` with `URL_RAW_BASE="https://raw.githubusercontent.com/minionflo/supervised-installer/master/files"` in installer.sh
 
 # This installation method is for advanced users only
 
